@@ -1,0 +1,16 @@
+h1
+{
+    color : darkred ;
+    font_family : arial  ;
+    font-size: 20px ;
+    text-align: center;
+    background-color: #EEE8AA;
+}
+h1 +
+{
+    color: violet;
+    font_family:arial ;
+    text-align: center;
+
+}
+

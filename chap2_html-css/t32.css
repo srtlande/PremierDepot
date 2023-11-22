@@ -1,0 +1,28 @@
+
+
+body{
+    background-image : url("pingouin.png") ;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-color: darkseagreen;
+}
+
+
+
+h1{
+    color:
+    mediumpurple;
+}
+
+h2{
+    color:white;
+}
+
+p{
+    color : white
+}
+
+div
+{
+    color : white
+}
